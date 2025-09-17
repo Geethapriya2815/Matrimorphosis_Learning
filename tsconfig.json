@@ -5,5 +5,5 @@
     "module": "commonjs",
     "strict": true
   },
-  "include": ["*.ts"]
+  "include": ["*.ts", "Data Structure/Stack.ts", "Data Structure/queue.ts", "Data Structure/arrayds.ts"]
 }
